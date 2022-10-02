@@ -11,7 +11,7 @@
 
 body {
     background-color: hsl(204, 43%, 93%);
-    padding: 6vw;
+    padding: 6vw 0;
 
 }
 main {
@@ -109,6 +109,7 @@ footer {
 } footer .attribution {
     font-size: 14px;
     font-weight: bold;
+    padding: 10px;
 } .attribution a {
     color: hsl(179, 62%, 43%);
     text-decoration: none;
